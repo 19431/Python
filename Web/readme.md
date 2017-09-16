@@ -1,0 +1,1 @@
+This folder is all web based projects made with python
